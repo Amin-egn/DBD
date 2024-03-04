@@ -1,0 +1,5 @@
+{
+    "databases": [
+        {"dbms": "mssql", "server": ".\\Moein2008", "database": "Moein", "username": "sa", "password": "arta0@"}
+    ]
+}
